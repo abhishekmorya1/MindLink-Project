@@ -67,7 +67,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
   
   <body>
       <div class="container">
-          <a href="https://mind-link-an-edtech-platform.vercel.app"><img class="logo" src="https://mind-link-an-edtech-platform.vercel.app/rzp_logo.png"
+          <a href="https://mindlink-project-frontend.vercel.app"><img class="logo" src="https://mindlink-project-frontend.vercel.app/rzp_logo.png"
                   alt="MindLink Logo"></a>
           <div class="message">Course Registration Confirmation</div>
           <div class="body">
@@ -76,7 +76,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                   are excited to have you as a participant!</p>
               <p>Please log in to your learning dashboard to access the course materials and start your learning journey.
               </p>
-              <a class="cta" href="https://mind-link-an-edtech-platform.vercel.app/dashboard">Go to Dashboard</a>
+              <a class="cta" href="https://mindlink-project-frontend.vercel.app/dashboard">Go to Dashboard</a>
           </div>
           <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
                   href="mailto:mindlink1512@gmail.com">mindlink1512@gmail.com</a>. We are here to help!</div>
